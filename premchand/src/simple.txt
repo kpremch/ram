@@ -1,0 +1,1 @@
+Hi this is karma operation using byte stream
